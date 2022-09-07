@@ -1,4 +1,16 @@
 Este archivo me permite hacer un cambio nuevo a la branch master.
 
 Este es el primer cambio creando una nueva branch.
-Añado otra linea que voy a eliminar despues.
+
+Elimine una linea y añadi esta otra.
+
+Puse este texto+
++
++
++
++
++
++
++
++
+OK bye
